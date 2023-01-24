@@ -656,12 +656,19 @@ section .container {
 }
 
 .about .row h5 {
-  font-size: 16px;
+  font-size: 14px;
   background: rgba(255, 255, 255, 0.15);
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
   margin-bottom: 10px;
+}
+
+.about .row p {
+  font-size: 11px;
+  padding: 5px 5px;
+  font-weight: 600;
+  margin-bottom: 5px;
 }
 
 .about .resume-item ul {
